@@ -1,0 +1,11 @@
+.container {
+    margin-left: 25em;
+    margin-right: 25em;
+    /* min-width: 500px; */
+    border-radius: 25px;
+    background: rgba(128, 128, 128, 0.308);
+}
+
+.container:nth-child(odd) {
+    background: rgba(148, 148, 148, 0.226);
+}
